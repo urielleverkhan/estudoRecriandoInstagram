@@ -152,6 +152,12 @@ body{
     }
     .instagram-continue{
         width: 100%;
-        
     }
+    .download{
+        width: 360px;
+    }
+    .group{
+        width: 360px;
+    }
+   
 }
